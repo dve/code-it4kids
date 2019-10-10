@@ -1,0 +1,4 @@
+baseURL = "https://it4kids.info/"
+languageCode = "de-DE"
+title = "it4kids.info"
+theme = "ananke"
